@@ -1,0 +1,39 @@
+.dropdown-station{
+    background-color: white;
+    /* padding : 10px; */
+    position: absolute;
+    top : 10px + 2vh;
+    left: 49vw;
+}
+
+.dropdown-train{
+    background-color: white;
+    /* padding : 10px; */
+    position: absolute;
+    top : 20px + 4vh;
+    left: 49vw;
+}
+
+.dropdown{
+    display: flex;
+    gap : 10px;
+    margin-top: 5px;
+}
+
+
+.dropdown-code{
+    background-color: green;
+    width : 5vw;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown-name{
+    background-color: blue;
+    width : 15vw;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+

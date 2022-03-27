@@ -1,0 +1,13 @@
+body {
+  background-color: #282c34;
+  color: white;
+}
+
+p{
+  margin: 0;
+}
+
+input{
+  outline: none;
+  border : none;
+}

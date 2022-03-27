@@ -1,0 +1,15 @@
+
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding : 2vw;
+}
+
+.input-container > p{
+    width : 20vw;
+}
+
+
+
